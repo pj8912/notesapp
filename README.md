@@ -1,0 +1,2 @@
+# notespp
+Desktop notes application
