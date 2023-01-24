@@ -1,2 +1,2 @@
-# notespp
+# Notesapp
 Desktop notes application
